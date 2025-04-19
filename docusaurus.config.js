@@ -10,12 +10,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus Senati',
-  tagline: 'Dinosaurs are cool',
+  title: 'DOCUSAURUS SENATI 2025',
+  tagline: 'los dinosaurios son geniales con senati',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://967876949.facturalo.co',
+  url: 'https://913199895.facturalo.co',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docusaurus/',
@@ -86,12 +86,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '📘 Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '📝 Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: '🐙 GitHub',
             position: 'right',
           },
         ],
@@ -103,7 +103,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: ' 🧠 Tutorial',
                 to: '/docs/intro',
               },
             ],
@@ -129,11 +129,11 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: '📓 Blog',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: ' 🔗 GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
